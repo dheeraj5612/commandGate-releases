@@ -22,4 +22,4 @@ This is the public **release distribution repository**, not the application sour
 
 Built by [Dheeraj Namburu](https://github.com/dheeraj5612), a Software Engineer at Microsoft exploring Forward Deployed and Applied AI engineering roles.
 
-[Portfolio](https://dheerajnamburu.com) · [Contact](mailto:dheerajnamburu@gmail.com)
+[Contact](mailto:dheerajnamburu@gmail.com)
